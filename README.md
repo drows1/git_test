@@ -1,3 +1,3 @@
 # git_test
-My first GIthub repo!
+My first Github repo!
 Hello 0din!
